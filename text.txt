@@ -1,1 +1,1 @@
-Hola, estoy creando mi primer repositorio de git desde la terminal.
+Ahora estoy creando mi segundo repositorio de git desde la terminal.
