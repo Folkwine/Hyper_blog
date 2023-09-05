@@ -1,1 +1,3 @@
-Ahora estoy modificando el arichivo text.txt
+Hola, estoy creando mi primer repositorio de git desde la terminal.
+
+Ahora le estoy agregando mas texto a mi primer commit y repositorio.
