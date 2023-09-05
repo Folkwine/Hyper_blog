@@ -1,1 +1,1 @@
-Ahora estoy creando mi segundo repositorio de git desde la terminal.
+Ahora estoy modificando el arichivo text.txt
