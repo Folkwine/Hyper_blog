@@ -38,3 +38,18 @@ body
 {
     font-size: 20px;
 }
+#Footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-contenido {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-contenido p {
+    margin: 5px 0;
+}
