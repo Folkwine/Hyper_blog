@@ -9,7 +9,7 @@ body
 }
 #Titulo_del_blog
 {
-    color: rgb(199, 56, 255);
+    color: rgb(246, 25, 21);
     text-align: center;
     border: 2px solid #e216af;
 
@@ -20,13 +20,18 @@ body
     text-align: right;
     font-size: small;
 }
+#Header
+{
+    background-color: #f08bff;
+}
 #container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(0,0,0);
     margin: auto;
+    background-color: #a7f1d1;
 }
 
 #container h1
